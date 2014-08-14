@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClaseSemana8</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lista_vacia">Lista Vacia</string>
+    <string name="title_activity_tolkien_library">TolkienLibrary</string>
+    <string name="title_activity_prueba_intent">PruebaIntent</string>
+    <string name="btn_agregar">Nuevo Registro</string>
+    <string name="title_activity_nuevo_libro">NuevoLibro</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Clase 1 Ejercicio 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="mensaje_principal">Hola mauricio Alpizar que pasa viejo!</string>
+    <string name="btn_principal">Dame Click</string>
+
+</resources>

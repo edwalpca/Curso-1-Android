@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnimacionFrame</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="iniciar">Iniciar la Animacion</string>
+    <string name="title_activity_demo_service">DemoService</string>
+    <string name="title_activity_media_player_service">MediaPlayerService</string>
+
+</resources>

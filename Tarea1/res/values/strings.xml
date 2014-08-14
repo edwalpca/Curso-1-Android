@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Juego de Howards</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_btn_candidato">Escoger</string>
+    <string name="lbl_txt_partido"></string>
+    <string name="desc_imagen">Partido Ganador</string>
+    <string name="titulo_ventana">El partido Ganador es</string>
+    <string name="leyenda_splash">Elaborado por: Mauricio Alpizar - 2014</string>
+    <string name="leyenda_1">Curso Mobile Application Android</string>
+    <string name="leyenda_2">Ulacit</string>
+    <string name="op_1">Ir al Juego de Howards</string>
+    <string name="op_2">Ir a la Galería de Personajes</string>
+    <string name="op_3">Ir al Juego Y</string>
+    <string name="op_4">Ir al Juego Z</string>
+    <string name="title_activity_pantalla_opciones">PantallaOpciones</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash_profe">SplashProfe</string>
+    <string name="lbl_menu_item1">Acerca de</string>
+    <string name="lbl_menu_item2">Instrucciones</string>
+    <string name="lbl_menu_item3">Opción X</string>
+    <string name="lbl_menu_item4">Opción Y</string>
+    <string name="title_activity_acerca_de">Acerca de</string>
+    <string name="title_activity_galeria">Galeria</string>
+    <string name="title_activity_image_adapter">ImageAdapter</string>
+
+    <string-array name="imgs_arreglo">
+        <item>gryffindor</item>
+        <item>hufflepuff</item>
+        <item>ravenclaw</item>
+        <item>slytherin</item>
+    </string-array>
+
+    <string name="title_activity_lista_opciones">ListaOpciones</string>
+    
+    
+    <string-array name="op_menu_principal">
+        <item>Juego de Howard</item>
+        <item>Galeria de Personajes</item>
+        <item>Opcion Adicional 1</item>
+        <item>Opcion Adicional 2</item>
+    </string-array>
+    
+
+</resources>

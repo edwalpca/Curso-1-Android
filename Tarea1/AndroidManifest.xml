@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cyberfuel.tarea1"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+        
+        <activity
+            android:name=".ListaOpciones"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateVisible|adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>        
+      
+<!--        
+        
+        <activity
+            android:name="com.cyberfuel.tarea1.SplashProfe"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        
+        Actividad Principal 
+        <activity
+            android:name="com.cyberfuel.tarea1.SplashScreen"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        Actividad Principal
+        -->
+
+        <activity
+            android:name="com.cyberfuel.tarea1.PantallaOpciones"
+            android:label="@string/title_activity_pantalla_opciones" >
+        </activity>
+        <activity
+            android:name="com.cyberfuel.tarea1.Howards"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <!--
+        <activity
+            android:name="com.cyberfuel.tarea1.SplashProfe"
+            android:label="@string/title_activity_splash_profe" >
+        </activity>        -->
+        
+        <activity
+            android:name="com.cyberfuel.tarea1.AcercaDe"
+            android:label="@string/title_activity_acerca_de" >
+        </activity>
+        <activity
+            android:name="com.cyberfuel.tarea1.Galeria"
+            android:label="@string/title_activity_galeria" >
+        </activity>
+        <activity
+            android:name="com.cyberfuel.tarea1.ImageAdapter"
+            android:label="@string/title_activity_image_adapter" >
+        </activity>
+
+    </application>
+
+</manifest>

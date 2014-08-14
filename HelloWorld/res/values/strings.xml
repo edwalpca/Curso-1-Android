@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mi Primer App</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="codigo_empresa">25654</string><string name="nombre_empresa">Cyberfuel S.A</string>
+    
+    <string name="nombre_contacto">Mauricio Alpizar Castro</string>
+    <string name="telefono_contacto">8706-0644</string>
+    <string name="correo_electronico">ealpizar@cyberfuel.com</string><string name="comentarios">Esto es la parte de comentarios del cliente</string>
+
+</resources>
